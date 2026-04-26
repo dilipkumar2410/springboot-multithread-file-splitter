@@ -26,19 +26,6 @@
 
 ---
 
-## 📁 Project Structure
-
-```bash
-com.dilip.filesplitter
-├── controller      → FileSplitController
-├── service         → FileSplitService
-├── config          → ThreadPoolConfig
-├── util            → FileUtil
-└── FileSplitterApplication.java
-````
-
----
-
 ## 📐 Architecture
 
 ```text
